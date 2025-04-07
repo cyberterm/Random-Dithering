@@ -1,2 +1,4 @@
+
+numpy
+Pillow
 numba
-tkinterdnd2
